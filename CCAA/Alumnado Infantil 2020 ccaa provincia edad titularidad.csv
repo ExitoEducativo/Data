@@ -1,0 +1,729 @@
+﻿Id CCAA,CCAA,Id Provincia,Provincia,Edad,Titularidad,Alumnos
+CA01,Andalucía,PR04,Almería,0,Pública,445
+CA01,Andalucía,PR11,Cádiz,0,Pública,361
+CA01,Andalucía,PR14,Córdoba,0,Pública,282
+CA01,Andalucía,PR18,Granada,0,Pública,541
+CA01,Andalucía,PR21,Huelva,0,Pública,429
+CA01,Andalucía,PR23,Jaén,0,Pública,299
+CA01,Andalucía,PR29,Málaga,0,Pública,534
+CA01,Andalucía,PR41,Sevilla,0,Pública,784
+CA02,Aragón,PR22,Huesca,0,Pública,213
+CA02,Aragón,PR44,Teruel,0,Pública,79
+CA02,Aragón,PR50,Zaragoza,0,Pública,417
+CA03,Principado de Asturias,PR33,Asturias,0,Pública,554
+CA04,Illes Balears,PR07,Baleares,0,Pública,553
+CA05,Canarias,PR35,Las Palmas,0,Pública,185
+CA05,Canarias,PR38,Santa Cruz de Tenerife,0,Pública,301
+CA06,Cantabria,PR39,Cantabria,0,Pública,56
+CA07,Castilla y León,PR05,Ávila,0,Pública,54
+CA07,Castilla y León,PR09,Burgos,0,Pública,107
+CA07,Castilla y León,PR24,León,0,Pública,106
+CA07,Castilla y León,PR34,Palencia,0,Pública,82
+CA07,Castilla y León,PR37,Salamanca,0,Pública,112
+CA07,Castilla y León,PR40,Segovia,0,Pública,41
+CA07,Castilla y León,PR42,Soria,0,Pública,66
+CA07,Castilla y León,PR47,Valladolid,0,Pública,187
+CA07,Castilla y León,PR49,Zamora,0,Pública,39
+CA08,Castilla-La Mancha,PR02,Albacete,0,Pública,133
+CA08,Castilla-La Mancha,PR13,Ciudad Real,0,Pública,253
+CA08,Castilla-La Mancha,PR16,Cuenca,0,Pública,77
+CA08,Castilla-La Mancha,PR19,Guadalajara,0,Pública,152
+CA08,Castilla-La Mancha,PR45,Toledo,0,Pública,338
+CA09,Cataluña,PR08,Barcelona,0,Pública,2.785
+CA09,Cataluña,PR17,Girona,0,Pública,584
+CA09,Cataluña,PR25,Lleida,0,Pública,300
+CA09,Cataluña,PR43,Tarragona,0,Pública,400
+CA10,Comunitat Valenciana,PR03,Alicante,0,Pública,277
+CA10,Comunitat Valenciana,PR12,Castellón,0,Pública,97
+CA10,Comunitat Valenciana,PR46,Valencia,0,Pública,695
+CA11,Extremadura,PR06,Badajoz,0,Pública,346
+CA11,Extremadura,PR10,Cáceres,0,Pública,273
+CA12,Galicia,PR15,A Coruña,0,Pública,972
+CA12,Galicia,PR27,Lugo,0,Pública,224
+CA12,Galicia,PR32,Ourense,0,Pública,170
+CA12,Galicia,PR36,Pontevedra,0,Pública,665
+CA13,Comunidad de Madrid,PR28,Madrid,0,Pública,5.399
+CA14,Región de Murcia,PR30,Murcia,0,Pública,273
+CA15,Comunidad Foral de Navarra,PR31,Navarra,0,Pública,356
+CA16,País Vasco,PR01,Álava,0,Pública,191
+CA16,País Vasco,PR20,Gipuzkoa,0,Pública,461
+CA16,País Vasco,PR48,Bizkaia,0,Pública,438
+CA17,La Rioja,PR26,La Rioja,0,Pública,147
+CA18,Ceuta,PR51,Ceuta,0,Pública,16
+CA19,Melilla,PR52,Melilla,0,Pública,54
+CA01,Andalucía,PR04,Almería,0,Privada,715
+CA01,Andalucía,PR11,Cádiz,0,Privada,458
+CA01,Andalucía,PR14,Córdoba,0,Privada,707
+CA01,Andalucía,PR18,Granada,0,Privada,575
+CA01,Andalucía,PR21,Huelva,0,Privada,428
+CA01,Andalucía,PR23,Jaén,0,Privada,318
+CA01,Andalucía,PR29,Málaga,0,Privada,1.453
+CA01,Andalucía,PR41,Sevilla,0,Privada,1.999
+CA02,Aragón,PR22,Huesca,0,Privada,47
+CA02,Aragón,PR44,Teruel,0,Privada,17
+CA02,Aragón,PR50,Zaragoza,0,Privada,306
+CA03,Principado de Asturias,PR33,Asturias,0,Privada,46
+CA04,Illes Balears,PR07,Baleares,0,Privada,235
+CA05,Canarias,PR35,Las Palmas,0,Privada,279
+CA05,Canarias,PR38,Santa Cruz de Tenerife,0,Privada,502
+CA06,Cantabria,PR39,Cantabria,0,Privada,42
+CA07,Castilla y León,PR05,Ávila,0,Privada,0
+CA07,Castilla y León,PR09,Burgos,0,Privada,29
+CA07,Castilla y León,PR24,León,0,Privada,18
+CA07,Castilla y León,PR34,Palencia,0,Privada,17
+CA07,Castilla y León,PR37,Salamanca,0,Privada,47
+CA07,Castilla y León,PR40,Segovia,0,Privada,23
+CA07,Castilla y León,PR42,Soria,0,Privada,6
+CA07,Castilla y León,PR47,Valladolid,0,Privada,71
+CA07,Castilla y León,PR49,Zamora,0,Privada,9
+CA08,Castilla-La Mancha,PR02,Albacete,0,Privada,129
+CA08,Castilla-La Mancha,PR13,Ciudad Real,0,Privada,103
+CA08,Castilla-La Mancha,PR16,Cuenca,0,Privada,36
+CA08,Castilla-La Mancha,PR19,Guadalajara,0,Privada,138
+CA08,Castilla-La Mancha,PR45,Toledo,0,Privada,243
+CA09,Cataluña,PR08,Barcelona,0,Privada,2.408
+CA09,Cataluña,PR17,Girona,0,Privada,163
+CA09,Cataluña,PR25,Lleida,0,Privada,122
+CA09,Cataluña,PR43,Tarragona,0,Privada,166
+CA10,Comunitat Valenciana,PR03,Alicante,0,Privada,629
+CA10,Comunitat Valenciana,PR12,Castellón,0,Privada,161
+CA10,Comunitat Valenciana,PR46,Valencia,0,Privada,1.829
+CA11,Extremadura,PR06,Badajoz,0,Privada,49
+CA11,Extremadura,PR10,Cáceres,0,Privada,34
+CA12,Galicia,PR15,A Coruña,0,Privada,483
+CA12,Galicia,PR27,Lugo,0,Privada,74
+CA12,Galicia,PR32,Ourense,0,Privada,85
+CA12,Galicia,PR36,Pontevedra,0,Privada,517
+CA13,Comunidad de Madrid,PR28,Madrid,0,Privada,6.418
+CA14,Región de Murcia,PR30,Murcia,0,Privada,494
+CA15,Comunidad Foral de Navarra,PR31,Navarra,0,Privada,46
+CA16,País Vasco,PR01,Álava,0,Privada,99
+CA16,País Vasco,PR20,Gipuzkoa,0,Privada,514
+CA16,País Vasco,PR48,Bizkaia,0,Privada,799
+CA17,La Rioja,PR26,La Rioja,0,Privada,177
+CA18,Ceuta,PR51,Ceuta,0,Privada,8
+CA19,Melilla,PR52,Melilla,0,Privada,13
+CA01,Andalucía,PR04,Almería,1,Pública,1.814
+CA01,Andalucía,PR11,Cádiz,1,Pública,1.533
+CA01,Andalucía,PR14,Córdoba,1,Pública,1.194
+CA01,Andalucía,PR18,Granada,1,Pública,1.921
+CA01,Andalucía,PR21,Huelva,1,Pública,1.549
+CA01,Andalucía,PR23,Jaén,1,Pública,1.266
+CA01,Andalucía,PR29,Málaga,1,Pública,2.029
+CA01,Andalucía,PR41,Sevilla,1,Pública,3.386
+CA02,Aragón,PR22,Huesca,1,Pública,626
+CA02,Aragón,PR44,Teruel,1,Pública,299
+CA02,Aragón,PR50,Zaragoza,1,Pública,1.507
+CA03,Principado de Asturias,PR33,Asturias,1,Pública,1.280
+CA04,Illes Balears,PR07,Baleares,1,Pública,2.074
+CA05,Canarias,PR35,Las Palmas,1,Pública,865
+CA05,Canarias,PR38,Santa Cruz de Tenerife,1,Pública,783
+CA06,Cantabria,PR39,Cantabria,1,Pública,99
+CA07,Castilla y León,PR05,Ávila,1,Pública,202
+CA07,Castilla y León,PR09,Burgos,1,Pública,295
+CA07,Castilla y León,PR24,León,1,Pública,339
+CA07,Castilla y León,PR34,Palencia,1,Pública,213
+CA07,Castilla y León,PR37,Salamanca,1,Pública,391
+CA07,Castilla y León,PR40,Segovia,1,Pública,116
+CA07,Castilla y León,PR42,Soria,1,Pública,217
+CA07,Castilla y León,PR47,Valladolid,1,Pública,816
+CA07,Castilla y León,PR49,Zamora,1,Pública,180
+CA08,Castilla-La Mancha,PR02,Albacete,1,Pública,888
+CA08,Castilla-La Mancha,PR13,Ciudad Real,1,Pública,951
+CA08,Castilla-La Mancha,PR16,Cuenca,1,Pública,361
+CA08,Castilla-La Mancha,PR19,Guadalajara,1,Pública,469
+CA08,Castilla-La Mancha,PR45,Toledo,1,Pública,1.480
+CA09,Cataluña,PR08,Barcelona,1,Pública,12.685
+CA09,Cataluña,PR17,Girona,1,Pública,2.396
+CA09,Cataluña,PR25,Lleida,1,Pública,1.328
+CA09,Cataluña,PR43,Tarragona,1,Pública,1.965
+CA10,Comunitat Valenciana,PR03,Alicante,1,Pública,1.890
+CA10,Comunitat Valenciana,PR12,Castellón,1,Pública,657
+CA10,Comunitat Valenciana,PR46,Valencia,1,Pública,3.586
+CA11,Extremadura,PR06,Badajoz,1,Pública,1.492
+CA11,Extremadura,PR10,Cáceres,1,Pública,925
+CA12,Galicia,PR15,A Coruña,1,Pública,2.492
+CA12,Galicia,PR27,Lugo,1,Pública,523
+CA12,Galicia,PR32,Ourense,1,Pública,402
+CA12,Galicia,PR36,Pontevedra,1,Pública,1.740
+CA13,Comunidad de Madrid,PR28,Madrid,1,Pública,15.699
+CA14,Región de Murcia,PR30,Murcia,1,Pública,1.633
+CA15,Comunidad Foral de Navarra,PR31,Navarra,1,Pública,1.682
+CA16,País Vasco,PR01,Álava,1,Pública,993
+CA16,País Vasco,PR20,Gipuzkoa,1,Pública,1.580
+CA16,País Vasco,PR48,Bizkaia,1,Pública,1.787
+CA17,La Rioja,PR26,La Rioja,1,Pública,573
+CA18,Ceuta,PR51,Ceuta,1,Pública,52
+CA19,Melilla,PR52,Melilla,1,Pública,180
+CA01,Andalucía,PR04,Almería,1,Privada,2.348
+CA01,Andalucía,PR11,Cádiz,1,Privada,2.295
+CA01,Andalucía,PR14,Córdoba,1,Privada,2.349
+CA01,Andalucía,PR18,Granada,1,Privada,1.843
+CA01,Andalucía,PR21,Huelva,1,Privada,1.253
+CA01,Andalucía,PR23,Jaén,1,Privada,1.086
+CA01,Andalucía,PR29,Málaga,1,Privada,5.624
+CA01,Andalucía,PR41,Sevilla,1,Privada,7.201
+CA02,Aragón,PR22,Huesca,1,Privada,232
+CA02,Aragón,PR44,Teruel,1,Privada,79
+CA02,Aragón,PR50,Zaragoza,1,Privada,1.251
+CA03,Principado de Asturias,PR33,Asturias,1,Privada,163
+CA04,Illes Balears,PR07,Baleares,1,Privada,1.063
+CA05,Canarias,PR35,Las Palmas,1,Privada,736
+CA05,Canarias,PR38,Santa Cruz de Tenerife,1,Privada,1.272
+CA06,Cantabria,PR39,Cantabria,1,Privada,230
+CA07,Castilla y León,PR05,Ávila,1,Privada,37
+CA07,Castilla y León,PR09,Burgos,1,Privada,167
+CA07,Castilla y León,PR24,León,1,Privada,127
+CA07,Castilla y León,PR34,Palencia,1,Privada,83
+CA07,Castilla y León,PR37,Salamanca,1,Privada,185
+CA07,Castilla y León,PR40,Segovia,1,Privada,84
+CA07,Castilla y León,PR42,Soria,1,Privada,61
+CA07,Castilla y León,PR47,Valladolid,1,Privada,416
+CA07,Castilla y León,PR49,Zamora,1,Privada,31
+CA08,Castilla-La Mancha,PR02,Albacete,1,Privada,583
+CA08,Castilla-La Mancha,PR13,Ciudad Real,1,Privada,443
+CA08,Castilla-La Mancha,PR16,Cuenca,1,Privada,93
+CA08,Castilla-La Mancha,PR19,Guadalajara,1,Privada,383
+CA08,Castilla-La Mancha,PR45,Toledo,1,Privada,683
+CA09,Cataluña,PR08,Barcelona,1,Privada,8.553
+CA09,Cataluña,PR17,Girona,1,Privada,532
+CA09,Cataluña,PR25,Lleida,1,Privada,422
+CA09,Cataluña,PR43,Tarragona,1,Privada,772
+CA10,Comunitat Valenciana,PR03,Alicante,1,Privada,2.158
+CA10,Comunitat Valenciana,PR12,Castellón,1,Privada,960
+CA10,Comunitat Valenciana,PR46,Valencia,1,Privada,6.360
+CA11,Extremadura,PR06,Badajoz,1,Privada,138
+CA11,Extremadura,PR10,Cáceres,1,Privada,126
+CA12,Galicia,PR15,A Coruña,1,Privada,1.621
+CA12,Galicia,PR27,Lugo,1,Privada,285
+CA12,Galicia,PR32,Ourense,1,Privada,314
+CA12,Galicia,PR36,Pontevedra,1,Privada,1.630
+CA13,Comunidad de Madrid,PR28,Madrid,1,Privada,17.913
+CA14,Región de Murcia,PR30,Murcia,1,Privada,1.624
+CA15,Comunidad Foral de Navarra,PR31,Navarra,1,Privada,321
+CA16,País Vasco,PR01,Álava,1,Privada,338
+CA16,País Vasco,PR20,Gipuzkoa,1,Privada,1.199
+CA16,País Vasco,PR48,Bizkaia,1,Privada,2.230
+CA17,La Rioja,PR26,La Rioja,1,Privada,573
+CA18,Ceuta,PR51,Ceuta,1,Privada,54
+CA19,Melilla,PR52,Melilla,1,Privada,116
+CA01,Andalucía,PR04,Almería,2,Pública,2.370
+CA01,Andalucía,PR11,Cádiz,2,Pública,2.692
+CA01,Andalucía,PR14,Córdoba,2,Pública,1.829
+CA01,Andalucía,PR18,Granada,2,Pública,2.884
+CA01,Andalucía,PR21,Huelva,2,Pública,2.134
+CA01,Andalucía,PR23,Jaén,2,Pública,1.725
+CA01,Andalucía,PR29,Málaga,2,Pública,3.014
+CA01,Andalucía,PR41,Sevilla,2,Pública,4.787
+CA02,Aragón,PR22,Huesca,2,Pública,900
+CA02,Aragón,PR44,Teruel,2,Pública,428
+CA02,Aragón,PR50,Zaragoza,2,Pública,2.506
+CA03,Principado de Asturias,PR33,Asturias,2,Pública,1.860
+CA04,Illes Balears,PR07,Baleares,2,Pública,2.847
+CA05,Canarias,PR35,Las Palmas,2,Pública,1.358
+CA05,Canarias,PR38,Santa Cruz de Tenerife,2,Pública,1.341
+CA06,Cantabria,PR39,Cantabria,2,Pública,2.792
+CA07,Castilla y León,PR05,Ávila,2,Pública,304
+CA07,Castilla y León,PR09,Burgos,2,Pública,481
+CA07,Castilla y León,PR24,León,2,Pública,520
+CA07,Castilla y León,PR34,Palencia,2,Pública,354
+CA07,Castilla y León,PR37,Salamanca,2,Pública,601
+CA07,Castilla y León,PR40,Segovia,2,Pública,185
+CA07,Castilla y León,PR42,Soria,2,Pública,297
+CA07,Castilla y León,PR47,Valladolid,2,Pública,1.103
+CA07,Castilla y León,PR49,Zamora,2,Pública,237
+CA08,Castilla-La Mancha,PR02,Albacete,2,Pública,1.349
+CA08,Castilla-La Mancha,PR13,Ciudad Real,2,Pública,1.658
+CA08,Castilla-La Mancha,PR16,Cuenca,2,Pública,572
+CA08,Castilla-La Mancha,PR19,Guadalajara,2,Pública,662
+CA08,Castilla-La Mancha,PR45,Toledo,2,Pública,2.429
+CA09,Cataluña,PR08,Barcelona,2,Pública,18.764
+CA09,Cataluña,PR17,Girona,2,Pública,3.415
+CA09,Cataluña,PR25,Lleida,2,Pública,1.900
+CA09,Cataluña,PR43,Tarragona,2,Pública,3.014
+CA10,Comunitat Valenciana,PR03,Alicante,2,Pública,4.496
+CA10,Comunitat Valenciana,PR12,Castellón,2,Pública,1.507
+CA10,Comunitat Valenciana,PR46,Valencia,2,Pública,6.884
+CA11,Extremadura,PR06,Badajoz,2,Pública,2.492
+CA11,Extremadura,PR10,Cáceres,2,Pública,1.356
+CA12,Galicia,PR15,A Coruña,2,Pública,3.757
+CA12,Galicia,PR27,Lugo,2,Pública,835
+CA12,Galicia,PR32,Ourense,2,Pública,566
+CA12,Galicia,PR36,Pontevedra,2,Pública,2.673
+CA13,Comunidad de Madrid,PR28,Madrid,2,Pública,21.932
+CA14,Región de Murcia,PR30,Murcia,2,Pública,2.652
+CA15,Comunidad Foral de Navarra,PR31,Navarra,2,Pública,2.288
+CA16,País Vasco,PR01,Álava,2,Pública,1.678
+CA16,País Vasco,PR20,Gipuzkoa,2,Pública,2.949
+CA16,País Vasco,PR48,Bizkaia,2,Pública,4.233
+CA17,La Rioja,PR26,La Rioja,2,Pública,949
+CA18,Ceuta,PR51,Ceuta,2,Pública,234
+CA19,Melilla,PR52,Melilla,2,Pública,313
+CA01,Andalucía,PR04,Almería,2,Privada,3.319
+CA01,Andalucía,PR11,Cádiz,2,Privada,3.576
+CA01,Andalucía,PR14,Córdoba,2,Privada,3.284
+CA01,Andalucía,PR18,Granada,2,Privada,2.508
+CA01,Andalucía,PR21,Huelva,2,Privada,1.831
+CA01,Andalucía,PR23,Jaén,2,Privada,1.520
+CA01,Andalucía,PR29,Málaga,2,Privada,8.162
+CA01,Andalucía,PR41,Sevilla,2,Privada,9.995
+CA02,Aragón,PR22,Huesca,2,Privada,296
+CA02,Aragón,PR44,Teruel,2,Privada,138
+CA02,Aragón,PR50,Zaragoza,2,Privada,1.955
+CA03,Principado de Asturias,PR33,Asturias,2,Privada,306
+CA04,Illes Balears,PR07,Baleares,2,Privada,1.710
+CA05,Canarias,PR35,Las Palmas,2,Privada,1.195
+CA05,Canarias,PR38,Santa Cruz de Tenerife,2,Privada,2.046
+CA06,Cantabria,PR39,Cantabria,2,Privada,436
+CA07,Castilla y León,PR05,Ávila,2,Privada,124
+CA07,Castilla y León,PR09,Burgos,2,Privada,283
+CA07,Castilla y León,PR24,León,2,Privada,211
+CA07,Castilla y León,PR34,Palencia,2,Privada,118
+CA07,Castilla y León,PR37,Salamanca,2,Privada,303
+CA07,Castilla y León,PR40,Segovia,2,Privada,141
+CA07,Castilla y León,PR42,Soria,2,Privada,77
+CA07,Castilla y León,PR47,Valladolid,2,Privada,643
+CA07,Castilla y León,PR49,Zamora,2,Privada,57
+CA08,Castilla-La Mancha,PR02,Albacete,2,Privada,950
+CA08,Castilla-La Mancha,PR13,Ciudad Real,2,Privada,619
+CA08,Castilla-La Mancha,PR16,Cuenca,2,Privada,168
+CA08,Castilla-La Mancha,PR19,Guadalajara,2,Privada,558
+CA08,Castilla-La Mancha,PR45,Toledo,2,Privada,1.104
+CA09,Cataluña,PR08,Barcelona,2,Privada,12.997
+CA09,Cataluña,PR17,Girona,2,Privada,735
+CA09,Cataluña,PR25,Lleida,2,Privada,616
+CA09,Cataluña,PR43,Tarragona,2,Privada,1.257
+CA10,Comunitat Valenciana,PR03,Alicante,2,Privada,3.378
+CA10,Comunitat Valenciana,PR12,Castellón,2,Privada,1.256
+CA10,Comunitat Valenciana,PR46,Valencia,2,Privada,9.070
+CA11,Extremadura,PR06,Badajoz,2,Privada,275
+CA11,Extremadura,PR10,Cáceres,2,Privada,180
+CA12,Galicia,PR15,A Coruña,2,Privada,2.272
+CA12,Galicia,PR27,Lugo,2,Privada,376
+CA12,Galicia,PR32,Ourense,2,Privada,501
+CA12,Galicia,PR36,Pontevedra,2,Privada,2.502
+CA13,Comunidad de Madrid,PR28,Madrid,2,Privada,25.421
+CA14,Región de Murcia,PR30,Murcia,2,Privada,2.677
+CA15,Comunidad Foral de Navarra,PR31,Navarra,2,Privada,522
+CA16,País Vasco,PR01,Álava,2,Privada,1.078
+CA16,País Vasco,PR20,Gipuzkoa,2,Privada,2.520
+CA16,País Vasco,PR48,Bizkaia,2,Privada,3.735
+CA17,La Rioja,PR26,La Rioja,2,Privada,951
+CA18,Ceuta,PR51,Ceuta,2,Privada,135
+CA19,Melilla,PR52,Melilla,2,Privada,322
+CA01,Andalucía,PR04,Almería,3,Pública,6.770
+CA01,Andalucía,PR11,Cádiz,3,Pública,8.806
+CA01,Andalucía,PR14,Córdoba,3,Pública,4.829
+CA01,Andalucía,PR18,Granada,3,Pública,6.261
+CA01,Andalucía,PR21,Huelva,3,Pública,3.938
+CA01,Andalucía,PR23,Jaén,3,Pública,3.890
+CA01,Andalucía,PR29,Málaga,3,Pública,11.442
+CA01,Andalucía,PR41,Sevilla,3,Pública,14.231
+CA02,Aragón,PR22,Huesca,3,Pública,1.427
+CA02,Aragón,PR44,Teruel,3,Pública,923
+CA02,Aragón,PR50,Zaragoza,3,Pública,5.528
+CA03,Principado de Asturias,PR33,Asturias,3,Pública,4.445
+CA04,Illes Balears,PR07,Baleares,3,Pública,6.754
+CA05,Canarias,PR35,Las Palmas,3,Pública,6.305
+CA05,Canarias,PR38,Santa Cruz de Tenerife,3,Pública,5.291
+CA06,Cantabria,PR39,Cantabria,3,Pública,3.083
+CA07,Castilla y León,PR05,Ávila,3,Pública,841
+CA07,Castilla y León,PR09,Burgos,3,Pública,1.642
+CA07,Castilla y León,PR24,León,3,Pública,1.840
+CA07,Castilla y León,PR34,Palencia,3,Pública,740
+CA07,Castilla y León,PR37,Salamanca,3,Pública,1.323
+CA07,Castilla y León,PR40,Segovia,3,Pública,974
+CA07,Castilla y León,PR42,Soria,3,Pública,552
+CA07,Castilla y León,PR47,Valladolid,3,Pública,2.447
+CA07,Castilla y León,PR49,Zamora,3,Pública,665
+CA08,Castilla-La Mancha,PR02,Albacete,3,Pública,2.577
+CA08,Castilla-La Mancha,PR13,Ciudad Real,3,Pública,3.388
+CA08,Castilla-La Mancha,PR16,Cuenca,3,Pública,1.374
+CA08,Castilla-La Mancha,PR19,Guadalajara,3,Pública,2.031
+CA08,Castilla-La Mancha,PR45,Toledo,3,Pública,5.440
+CA09,Cataluña,PR08,Barcelona,3,Pública,32.278
+CA09,Cataluña,PR17,Girona,3,Pública,5.807
+CA09,Cataluña,PR25,Lleida,3,Pública,2.995
+CA09,Cataluña,PR43,Tarragona,3,Pública,5.649
+CA10,Comunitat Valenciana,PR03,Alicante,3,Pública,11.911
+CA10,Comunitat Valenciana,PR12,Castellón,3,Pública,4.118
+CA10,Comunitat Valenciana,PR46,Valencia,3,Pública,12.923
+CA11,Extremadura,PR06,Badajoz,3,Pública,4.671
+CA11,Extremadura,PR10,Cáceres,3,Pública,2.233
+CA12,Galicia,PR15,A Coruña,3,Pública,6.061
+CA12,Galicia,PR27,Lugo,3,Pública,1.553
+CA12,Galicia,PR32,Ourense,3,Pública,1.184
+CA12,Galicia,PR36,Pontevedra,3,Pública,4.728
+CA13,Comunidad de Madrid,PR28,Madrid,3,Pública,34.371
+CA14,Región de Murcia,PR30,Murcia,3,Pública,10.832
+CA15,Comunidad Foral de Navarra,PR31,Navarra,3,Pública,3.927
+CA16,País Vasco,PR01,Álava,3,Pública,1.834
+CA16,País Vasco,PR20,Gipuzkoa,3,Pública,3.084
+CA16,País Vasco,PR48,Bizkaia,3,Pública,4.642
+CA17,La Rioja,PR26,La Rioja,3,Pública,1.798
+CA18,Ceuta,PR51,Ceuta,3,Pública,743
+CA19,Melilla,PR52,Melilla,3,Pública,943
+CA01,Andalucía,PR04,Almería,3,Privada,988
+CA01,Andalucía,PR11,Cádiz,3,Privada,2.815
+CA01,Andalucía,PR14,Córdoba,3,Privada,1.934
+CA01,Andalucía,PR18,Granada,3,Privada,2.277
+CA01,Andalucía,PR21,Huelva,3,Privada,823
+CA01,Andalucía,PR23,Jaén,3,Privada,1.398
+CA01,Andalucía,PR29,Málaga,3,Privada,3.936
+CA01,Andalucía,PR41,Sevilla,3,Privada,4.599
+CA02,Aragón,PR22,Huesca,3,Privada,375
+CA02,Aragón,PR44,Teruel,3,Privada,137
+CA02,Aragón,PR50,Zaragoza,3,Privada,2.828
+CA03,Principado de Asturias,PR33,Asturias,3,Privada,2.089
+CA04,Illes Balears,PR07,Baleares,3,Privada,3.904
+CA05,Canarias,PR35,Las Palmas,3,Privada,2.110
+CA05,Canarias,PR38,Santa Cruz de Tenerife,3,Privada,2.373
+CA06,Cantabria,PR39,Cantabria,3,Privada,1.271
+CA07,Castilla y León,PR05,Ávila,3,Privada,327
+CA07,Castilla y León,PR09,Burgos,3,Privada,1.066
+CA07,Castilla y León,PR24,León,3,Privada,1.029
+CA07,Castilla y León,PR34,Palencia,3,Privada,354
+CA07,Castilla y León,PR37,Salamanca,3,Privada,897
+CA07,Castilla y León,PR40,Segovia,3,Privada,205
+CA07,Castilla y León,PR42,Soria,3,Privada,112
+CA07,Castilla y León,PR47,Valladolid,3,Privada,1.595
+CA07,Castilla y León,PR49,Zamora,3,Privada,257
+CA08,Castilla-La Mancha,PR02,Albacete,3,Privada,671
+CA08,Castilla-La Mancha,PR13,Ciudad Real,3,Privada,829
+CA08,Castilla-La Mancha,PR16,Cuenca,3,Privada,175
+CA08,Castilla-La Mancha,PR19,Guadalajara,3,Privada,424
+CA08,Castilla-La Mancha,PR45,Toledo,3,Privada,1.436
+CA09,Cataluña,PR08,Barcelona,3,Privada,18.358
+CA09,Cataluña,PR17,Girona,3,Privada,1.426
+CA09,Cataluña,PR25,Lleida,3,Privada,903
+CA09,Cataluña,PR43,Tarragona,3,Privada,1.796
+CA10,Comunitat Valenciana,PR03,Alicante,3,Privada,3.768
+CA10,Comunitat Valenciana,PR12,Castellón,3,Privada,1.114
+CA10,Comunitat Valenciana,PR46,Valencia,3,Privada,8.872
+CA11,Extremadura,PR06,Badajoz,3,Privada,1.181
+CA11,Extremadura,PR10,Cáceres,3,Privada,731
+CA12,Galicia,PR15,A Coruña,3,Privada,2.331
+CA12,Galicia,PR27,Lugo,3,Privada,548
+CA12,Galicia,PR32,Ourense,3,Privada,608
+CA12,Galicia,PR36,Pontevedra,3,Privada,2.258
+CA13,Comunidad de Madrid,PR28,Madrid,3,Privada,28.495
+CA14,Región de Murcia,PR30,Murcia,3,Privada,4.996
+CA15,Comunidad Foral de Navarra,PR31,Navarra,3,Privada,2.264
+CA16,País Vasco,PR01,Álava,3,Privada,1.258
+CA16,País Vasco,PR20,Gipuzkoa,3,Privada,3.023
+CA16,País Vasco,PR48,Bizkaia,3,Privada,4.525
+CA17,La Rioja,PR26,La Rioja,3,Privada,929
+CA18,Ceuta,PR51,Ceuta,3,Privada,251
+CA19,Melilla,PR52,Melilla,3,Privada,260
+CA01,Andalucía,PR04,Almería,4,Pública,6.990
+CA01,Andalucía,PR11,Cádiz,4,Pública,8.908
+CA01,Andalucía,PR14,Córdoba,4,Pública,4.953
+CA01,Andalucía,PR18,Granada,4,Pública,6.180
+CA01,Andalucía,PR21,Huelva,4,Pública,4.163
+CA01,Andalucía,PR23,Jaén,4,Pública,4.002
+CA01,Andalucía,PR29,Málaga,4,Pública,11.862
+CA01,Andalucía,PR41,Sevilla,4,Pública,14.673
+CA02,Aragón,PR22,Huesca,4,Pública,1.576
+CA02,Aragón,PR44,Teruel,4,Pública,916
+CA02,Aragón,PR50,Zaragoza,4,Pública,5.796
+CA03,Principado de Asturias,PR33,Asturias,4,Pública,4.552
+CA04,Illes Balears,PR07,Baleares,4,Pública,6.839
+CA05,Canarias,PR35,Las Palmas,4,Pública,6.599
+CA05,Canarias,PR38,Santa Cruz de Tenerife,4,Pública,5.528
+CA06,Cantabria,PR39,Cantabria,4,Pública,3.135
+CA07,Castilla y León,PR05,Ávila,4,Pública,859
+CA07,Castilla y León,PR09,Burgos,4,Pública,1.734
+CA07,Castilla y León,PR24,León,4,Pública,2.005
+CA07,Castilla y León,PR34,Palencia,4,Pública,800
+CA07,Castilla y León,PR37,Salamanca,4,Pública,1.377
+CA07,Castilla y León,PR40,Segovia,4,Pública,1.062
+CA07,Castilla y León,PR42,Soria,4,Pública,561
+CA07,Castilla y León,PR47,Valladolid,4,Pública,2.541
+CA07,Castilla y León,PR49,Zamora,4,Pública,682
+CA08,Castilla-La Mancha,PR02,Albacete,4,Pública,2.744
+CA08,Castilla-La Mancha,PR13,Ciudad Real,4,Pública,3.470
+CA08,Castilla-La Mancha,PR16,Cuenca,4,Pública,1.362
+CA08,Castilla-La Mancha,PR19,Guadalajara,4,Pública,2.122
+CA08,Castilla-La Mancha,PR45,Toledo,4,Pública,5.602
+CA09,Cataluña,PR08,Barcelona,4,Pública,33.134
+CA09,Cataluña,PR17,Girona,4,Pública,6.179
+CA09,Cataluña,PR25,Lleida,4,Pública,3.146
+CA09,Cataluña,PR43,Tarragona,4,Pública,6.095
+CA10,Comunitat Valenciana,PR03,Alicante,4,Pública,12.691
+CA10,Comunitat Valenciana,PR12,Castellón,4,Pública,4.104
+CA10,Comunitat Valenciana,PR46,Valencia,4,Pública,13.604
+CA11,Extremadura,PR06,Badajoz,4,Pública,4.766
+CA11,Extremadura,PR10,Cáceres,4,Pública,2.275
+CA12,Galicia,PR15,A Coruña,4,Pública,6.205
+CA12,Galicia,PR27,Lugo,4,Pública,1.591
+CA12,Galicia,PR32,Ourense,4,Pública,1.244
+CA12,Galicia,PR36,Pontevedra,4,Pública,4.870
+CA13,Comunidad de Madrid,PR28,Madrid,4,Pública,36.130
+CA14,Región de Murcia,PR30,Murcia,4,Pública,11.225
+CA15,Comunidad Foral de Navarra,PR31,Navarra,4,Pública,4.158
+CA16,País Vasco,PR01,Álava,4,Pública,1.925
+CA16,País Vasco,PR20,Gipuzkoa,4,Pública,3.276
+CA16,País Vasco,PR48,Bizkaia,4,Pública,4.813
+CA17,La Rioja,PR26,La Rioja,4,Pública,1.844
+CA18,Ceuta,PR51,Ceuta,4,Pública,817
+CA19,Melilla,PR52,Melilla,4,Pública,970
+CA01,Andalucía,PR04,Almería,4,Privada,1.038
+CA01,Andalucía,PR11,Cádiz,4,Privada,2.900
+CA01,Andalucía,PR14,Córdoba,4,Privada,1.992
+CA01,Andalucía,PR18,Granada,4,Privada,2.386
+CA01,Andalucía,PR21,Huelva,4,Privada,873
+CA01,Andalucía,PR23,Jaén,4,Privada,1.379
+CA01,Andalucía,PR29,Málaga,4,Privada,4.126
+CA01,Andalucía,PR41,Sevilla,4,Privada,4.805
+CA02,Aragón,PR22,Huesca,4,Privada,416
+CA02,Aragón,PR44,Teruel,4,Privada,145
+CA02,Aragón,PR50,Zaragoza,4,Privada,2.955
+CA03,Principado de Asturias,PR33,Asturias,4,Privada,2.028
+CA04,Illes Balears,PR07,Baleares,4,Privada,4.084
+CA05,Canarias,PR35,Las Palmas,4,Privada,2.021
+CA05,Canarias,PR38,Santa Cruz de Tenerife,4,Privada,2.565
+CA06,Cantabria,PR39,Cantabria,4,Privada,1.353
+CA07,Castilla y León,PR05,Ávila,4,Privada,347
+CA07,Castilla y León,PR09,Burgos,4,Privada,1.108
+CA07,Castilla y León,PR24,León,4,Privada,1.060
+CA07,Castilla y León,PR34,Palencia,4,Privada,403
+CA07,Castilla y León,PR37,Salamanca,4,Privada,987
+CA07,Castilla y León,PR40,Segovia,4,Privada,179
+CA07,Castilla y León,PR42,Soria,4,Privada,135
+CA07,Castilla y León,PR47,Valladolid,4,Privada,1.764
+CA07,Castilla y León,PR49,Zamora,4,Privada,309
+CA08,Castilla-La Mancha,PR02,Albacete,4,Privada,708
+CA08,Castilla-La Mancha,PR13,Ciudad Real,4,Privada,868
+CA08,Castilla-La Mancha,PR16,Cuenca,4,Privada,195
+CA08,Castilla-La Mancha,PR19,Guadalajara,4,Privada,436
+CA08,Castilla-La Mancha,PR45,Toledo,4,Privada,1.493
+CA09,Cataluña,PR08,Barcelona,4,Privada,19.274
+CA09,Cataluña,PR17,Girona,4,Privada,1.530
+CA09,Cataluña,PR25,Lleida,4,Privada,960
+CA09,Cataluña,PR43,Tarragona,4,Privada,1.854
+CA10,Comunitat Valenciana,PR03,Alicante,4,Privada,4.035
+CA10,Comunitat Valenciana,PR12,Castellón,4,Privada,1.122
+CA10,Comunitat Valenciana,PR46,Valencia,4,Privada,9.195
+CA11,Extremadura,PR06,Badajoz,4,Privada,1.133
+CA11,Extremadura,PR10,Cáceres,4,Privada,728
+CA12,Galicia,PR15,A Coruña,4,Privada,2.406
+CA12,Galicia,PR27,Lugo,4,Privada,576
+CA12,Galicia,PR32,Ourense,4,Privada,669
+CA12,Galicia,PR36,Pontevedra,4,Privada,2.362
+CA13,Comunidad de Madrid,PR28,Madrid,4,Privada,29.588
+CA14,Región de Murcia,PR30,Murcia,4,Privada,5.115
+CA15,Comunidad Foral de Navarra,PR31,Navarra,4,Privada,2.284
+CA16,País Vasco,PR01,Álava,4,Privada,1.367
+CA16,País Vasco,PR20,Gipuzkoa,4,Privada,3.163
+CA16,País Vasco,PR48,Bizkaia,4,Privada,4.702
+CA17,La Rioja,PR26,La Rioja,4,Privada,1.009
+CA18,Ceuta,PR51,Ceuta,4,Privada,243
+CA19,Melilla,PR52,Melilla,4,Privada,281
+CA01,Andalucía,PR04,Almería,5,Pública,7.003
+CA01,Andalucía,PR11,Cádiz,5,Pública,9.181
+CA01,Andalucía,PR14,Córdoba,5,Pública,5.093
+CA01,Andalucía,PR18,Granada,5,Pública,6.288
+CA01,Andalucía,PR21,Huelva,5,Pública,4.405
+CA01,Andalucía,PR23,Jaén,5,Pública,4.052
+CA01,Andalucía,PR29,Málaga,5,Pública,12.453
+CA01,Andalucía,PR41,Sevilla,5,Pública,15.269
+CA02,Aragón,PR22,Huesca,5,Pública,1.500
+CA02,Aragón,PR44,Teruel,5,Pública,1.013
+CA02,Aragón,PR50,Zaragoza,5,Pública,5.954
+CA03,Principado de Asturias,PR33,Asturias,5,Pública,4.723
+CA04,Illes Balears,PR07,Baleares,5,Pública,6.955
+CA05,Canarias,PR35,Las Palmas,5,Pública,6.717
+CA05,Canarias,PR38,Santa Cruz de Tenerife,5,Pública,5.581
+CA06,Cantabria,PR39,Cantabria,5,Pública,3.201
+CA07,Castilla y León,PR05,Ávila,5,Pública,955
+CA07,Castilla y León,PR09,Burgos,5,Pública,1.763
+CA07,Castilla y León,PR24,León,5,Pública,1.935
+CA07,Castilla y León,PR34,Palencia,5,Pública,812
+CA07,Castilla y León,PR37,Salamanca,5,Pública,1.400
+CA07,Castilla y León,PR40,Segovia,5,Pública,1.114
+CA07,Castilla y León,PR42,Soria,5,Pública,556
+CA07,Castilla y León,PR47,Valladolid,5,Pública,2.647
+CA07,Castilla y León,PR49,Zamora,5,Pública,678
+CA08,Castilla-La Mancha,PR02,Albacete,5,Pública,2.825
+CA08,Castilla-La Mancha,PR13,Ciudad Real,5,Pública,3.369
+CA08,Castilla-La Mancha,PR16,Cuenca,5,Pública,1.430
+CA08,Castilla-La Mancha,PR19,Guadalajara,5,Pública,2.089
+CA08,Castilla-La Mancha,PR45,Toledo,5,Pública,5.696
+CA09,Cataluña,PR08,Barcelona,5,Pública,33.763
+CA09,Cataluña,PR17,Girona,5,Pública,6.165
+CA09,Cataluña,PR25,Lleida,5,Pública,3.241
+CA09,Cataluña,PR43,Tarragona,5,Pública,6.132
+CA10,Comunitat Valenciana,PR03,Alicante,5,Pública,12.911
+CA10,Comunitat Valenciana,PR12,Castellón,5,Pública,4.293
+CA10,Comunitat Valenciana,PR46,Valencia,5,Pública,14.134
+CA11,Extremadura,PR06,Badajoz,5,Pública,4.922
+CA11,Extremadura,PR10,Cáceres,5,Pública,2.311
+CA12,Galicia,PR15,A Coruña,5,Pública,6.080
+CA12,Galicia,PR27,Lugo,5,Pública,1.625
+CA12,Galicia,PR32,Ourense,5,Pública,1.298
+CA12,Galicia,PR36,Pontevedra,5,Pública,5.160
+CA13,Comunidad de Madrid,PR28,Madrid,5,Pública,36.533
+CA14,Región de Murcia,PR30,Murcia,5,Pública,11.474
+CA15,Comunidad Foral de Navarra,PR31,Navarra,5,Pública,4.254
+CA16,País Vasco,PR01,Álava,5,Pública,1.979
+CA16,País Vasco,PR20,Gipuzkoa,5,Pública,3.308
+CA16,País Vasco,PR48,Bizkaia,5,Pública,4.959
+CA17,La Rioja,PR26,La Rioja,5,Pública,1.928
+CA18,Ceuta,PR51,Ceuta,5,Pública,947
+CA19,Melilla,PR52,Melilla,5,Pública,1.074
+CA01,Andalucía,PR04,Almería,5,Privada,1.039
+CA01,Andalucía,PR11,Cádiz,5,Privada,2.985
+CA01,Andalucía,PR14,Córdoba,5,Privada,1.994
+CA01,Andalucía,PR18,Granada,5,Privada,2.311
+CA01,Andalucía,PR21,Huelva,5,Privada,905
+CA01,Andalucía,PR23,Jaén,5,Privada,1.408
+CA01,Andalucía,PR29,Málaga,5,Privada,4.143
+CA01,Andalucía,PR41,Sevilla,5,Privada,4.847
+CA02,Aragón,PR22,Huesca,5,Privada,351
+CA02,Aragón,PR44,Teruel,5,Privada,171
+CA02,Aragón,PR50,Zaragoza,5,Privada,3.116
+CA03,Principado de Asturias,PR33,Asturias,5,Privada,2.138
+CA04,Illes Balears,PR07,Baleares,5,Privada,4.135
+CA05,Canarias,PR35,Las Palmas,5,Privada,2.102
+CA05,Canarias,PR38,Santa Cruz de Tenerife,5,Privada,2.643
+CA06,Cantabria,PR39,Cantabria,5,Privada,1.482
+CA07,Castilla y León,PR05,Ávila,5,Privada,332
+CA07,Castilla y León,PR09,Burgos,5,Privada,1.124
+CA07,Castilla y León,PR24,León,5,Privada,1.093
+CA07,Castilla y León,PR34,Palencia,5,Privada,427
+CA07,Castilla y León,PR37,Salamanca,5,Privada,961
+CA07,Castilla y León,PR40,Segovia,5,Privada,217
+CA07,Castilla y León,PR42,Soria,5,Privada,129
+CA07,Castilla y León,PR47,Valladolid,5,Privada,1.756
+CA07,Castilla y León,PR49,Zamora,5,Privada,350
+CA08,Castilla-La Mancha,PR02,Albacete,5,Privada,697
+CA08,Castilla-La Mancha,PR13,Ciudad Real,5,Privada,871
+CA08,Castilla-La Mancha,PR16,Cuenca,5,Privada,178
+CA08,Castilla-La Mancha,PR19,Guadalajara,5,Privada,428
+CA08,Castilla-La Mancha,PR45,Toledo,5,Privada,1.542
+CA09,Cataluña,PR08,Barcelona,5,Privada,19.962
+CA09,Cataluña,PR17,Girona,5,Privada,1.528
+CA09,Cataluña,PR25,Lleida,5,Privada,1.000
+CA09,Cataluña,PR43,Tarragona,5,Privada,1.884
+CA10,Comunitat Valenciana,PR03,Alicante,5,Privada,4.117
+CA10,Comunitat Valenciana,PR12,Castellón,5,Privada,1.156
+CA10,Comunitat Valenciana,PR46,Valencia,5,Privada,9.394
+CA11,Extremadura,PR06,Badajoz,5,Privada,1.194
+CA11,Extremadura,PR10,Cáceres,5,Privada,772
+CA12,Galicia,PR15,A Coruña,5,Privada,2.388
+CA12,Galicia,PR27,Lugo,5,Privada,574
+CA12,Galicia,PR32,Ourense,5,Privada,630
+CA12,Galicia,PR36,Pontevedra,5,Privada,2.430
+CA13,Comunidad de Madrid,PR28,Madrid,5,Privada,29.866
+CA14,Región de Murcia,PR30,Murcia,5,Privada,5.271
+CA15,Comunidad Foral de Navarra,PR31,Navarra,5,Privada,2.367
+CA16,País Vasco,PR01,Álava,5,Privada,1.362
+CA16,País Vasco,PR20,Gipuzkoa,5,Privada,3.171
+CA16,País Vasco,PR48,Bizkaia,5,Privada,5.022
+CA17,La Rioja,PR26,La Rioja,5,Privada,1.066
+CA18,Ceuta,PR51,Ceuta,5,Privada,250
+CA19,Melilla,PR52,Melilla,5,Privada,305
+CA01,Andalucía,PR04,Almería,6,Pública,28
+CA01,Andalucía,PR11,Cádiz,6,Pública,80
+CA01,Andalucía,PR14,Córdoba,6,Pública,64
+CA01,Andalucía,PR18,Granada,6,Pública,27
+CA01,Andalucía,PR21,Huelva,6,Pública,31
+CA01,Andalucía,PR23,Jaén,6,Pública,26
+CA01,Andalucía,PR29,Málaga,6,Pública,89
+CA01,Andalucía,PR41,Sevilla,6,Pública,114
+CA02,Aragón,PR22,Huesca,6,Pública,17
+CA02,Aragón,PR44,Teruel,6,Pública,11
+CA02,Aragón,PR50,Zaragoza,6,Pública,46
+CA03,Principado de Asturias,PR33,Asturias,6,Pública,31
+CA04,Illes Balears,PR07,Baleares,6,Pública,37
+CA05,Canarias,PR35,Las Palmas,6,Pública,21
+CA05,Canarias,PR38,Santa Cruz de Tenerife,6,Pública,19
+CA06,Cantabria,PR39,Cantabria,6,Pública,0
+CA07,Castilla y León,PR05,Ávila,6,Pública,4
+CA07,Castilla y León,PR09,Burgos,6,Pública,15
+CA07,Castilla y León,PR24,León,6,Pública,25
+CA07,Castilla y León,PR34,Palencia,6,Pública,7
+CA07,Castilla y León,PR37,Salamanca,6,Pública,9
+CA07,Castilla y León,PR40,Segovia,6,Pública,5
+CA07,Castilla y León,PR42,Soria,6,Pública,4
+CA07,Castilla y León,PR47,Valladolid,6,Pública,23
+CA07,Castilla y León,PR49,Zamora,6,Pública,1
+CA08,Castilla-La Mancha,PR02,Albacete,6,Pública,10
+CA08,Castilla-La Mancha,PR13,Ciudad Real,6,Pública,17
+CA08,Castilla-La Mancha,PR16,Cuenca,6,Pública,7
+CA08,Castilla-La Mancha,PR19,Guadalajara,6,Pública,19
+CA08,Castilla-La Mancha,PR45,Toledo,6,Pública,24
+CA09,Cataluña,PR08,Barcelona,6,Pública,373
+CA09,Cataluña,PR17,Girona,6,Pública,54
+CA09,Cataluña,PR25,Lleida,6,Pública,19
+CA09,Cataluña,PR43,Tarragona,6,Pública,45
+CA10,Comunitat Valenciana,PR03,Alicante,6,Pública,0
+CA10,Comunitat Valenciana,PR12,Castellón,6,Pública,0
+CA10,Comunitat Valenciana,PR46,Valencia,6,Pública,0
+CA11,Extremadura,PR06,Badajoz,6,Pública,17
+CA11,Extremadura,PR10,Cáceres,6,Pública,13
+CA12,Galicia,PR15,A Coruña,6,Pública,54
+CA12,Galicia,PR27,Lugo,6,Pública,13
+CA12,Galicia,PR32,Ourense,6,Pública,12
+CA12,Galicia,PR36,Pontevedra,6,Pública,27
+CA13,Comunidad de Madrid,PR28,Madrid,6,Pública,379
+CA14,Región de Murcia,PR30,Murcia,6,Pública,131
+CA15,Comunidad Foral de Navarra,PR31,Navarra,6,Pública,39
+CA16,País Vasco,PR01,Álava,6,Pública,9
+CA16,País Vasco,PR20,Gipuzkoa,6,Pública,19
+CA16,País Vasco,PR48,Bizkaia,6,Pública,25
+CA17,La Rioja,PR26,La Rioja,6,Pública,26
+CA18,Ceuta,PR51,Ceuta,6,Pública,32
+CA19,Melilla,PR52,Melilla,6,Pública,47
+CA01,Andalucía,PR04,Almería,6,Privada,26
+CA01,Andalucía,PR11,Cádiz,6,Privada,9
+CA01,Andalucía,PR14,Córdoba,6,Privada,13
+CA01,Andalucía,PR18,Granada,6,Privada,12
+CA01,Andalucía,PR21,Huelva,6,Privada,7
+CA01,Andalucía,PR23,Jaén,6,Privada,4
+CA01,Andalucía,PR29,Málaga,6,Privada,144
+CA01,Andalucía,PR41,Sevilla,6,Privada,23
+CA02,Aragón,PR22,Huesca,6,Privada,2
+CA02,Aragón,PR44,Teruel,6,Privada,0
+CA02,Aragón,PR50,Zaragoza,6,Privada,11
+CA03,Principado de Asturias,PR33,Asturias,6,Privada,15
+CA04,Illes Balears,PR07,Baleares,6,Privada,32
+CA05,Canarias,PR35,Las Palmas,6,Privada,11
+CA05,Canarias,PR38,Santa Cruz de Tenerife,6,Privada,28
+CA06,Cantabria,PR39,Cantabria,6,Privada,0
+CA07,Castilla y León,PR05,Ávila,6,Privada,2
+CA07,Castilla y León,PR09,Burgos,6,Privada,3
+CA07,Castilla y León,PR24,León,6,Privada,5
+CA07,Castilla y León,PR34,Palencia,6,Privada,1
+CA07,Castilla y León,PR37,Salamanca,6,Privada,8
+CA07,Castilla y León,PR40,Segovia,6,Privada,0
+CA07,Castilla y León,PR42,Soria,6,Privada,1
+CA07,Castilla y León,PR47,Valladolid,6,Privada,6
+CA07,Castilla y León,PR49,Zamora,6,Privada,4
+CA08,Castilla-La Mancha,PR02,Albacete,6,Privada,3
+CA08,Castilla-La Mancha,PR13,Ciudad Real,6,Privada,1
+CA08,Castilla-La Mancha,PR16,Cuenca,6,Privada,1
+CA08,Castilla-La Mancha,PR19,Guadalajara,6,Privada,4
+CA08,Castilla-La Mancha,PR45,Toledo,6,Privada,6
+CA09,Cataluña,PR08,Barcelona,6,Privada,162
+CA09,Cataluña,PR17,Girona,6,Privada,7
+CA09,Cataluña,PR25,Lleida,6,Privada,5
+CA09,Cataluña,PR43,Tarragona,6,Privada,12
+CA10,Comunitat Valenciana,PR03,Alicante,6,Privada,0
+CA10,Comunitat Valenciana,PR12,Castellón,6,Privada,0
+CA10,Comunitat Valenciana,PR46,Valencia,6,Privada,0
+CA11,Extremadura,PR06,Badajoz,6,Privada,0
+CA11,Extremadura,PR10,Cáceres,6,Privada,0
+CA12,Galicia,PR15,A Coruña,6,Privada,10
+CA12,Galicia,PR27,Lugo,6,Privada,1
+CA12,Galicia,PR32,Ourense,6,Privada,1
+CA12,Galicia,PR36,Pontevedra,6,Privada,7
+CA13,Comunidad de Madrid,PR28,Madrid,6,Privada,304
+CA14,Región de Murcia,PR30,Murcia,6,Privada,30
+CA15,Comunidad Foral de Navarra,PR31,Navarra,6,Privada,17
+CA16,País Vasco,PR01,Álava,6,Privada,6
+CA16,País Vasco,PR20,Gipuzkoa,6,Privada,14
+CA16,País Vasco,PR48,Bizkaia,6,Privada,19
+CA17,La Rioja,PR26,La Rioja,6,Privada,3
+CA18,Ceuta,PR51,Ceuta,6,Privada,0
+CA19,Melilla,PR52,Melilla,6,Privada,5
